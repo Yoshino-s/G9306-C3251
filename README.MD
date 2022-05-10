@@ -1,5 +1,7 @@
 # 通道情况
 
+> 关于提问题，请发issue： https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart
+
 仅记录 G9306-C3251 连云港-南京南-下一步（G9306延迟开到5月20日）        
 
 >  买票请加小红书博主：火车票搬运工！大哥5块钱帮忙抢票（公益机会有限，还有其他足智多谋的方式，大家细品，自己也要一直盯着候补）
