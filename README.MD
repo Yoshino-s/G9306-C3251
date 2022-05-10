@@ -1,6 +1,7 @@
 # 通道情况
 
 > 关于提问题，请发issue： https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart
+> 只维护到13号我完成我的任务，后续保命不更新了
 
 仅记录 G9306-C3251 连云港-南京南-下一步（G9306延迟开到5月20日）        
 
